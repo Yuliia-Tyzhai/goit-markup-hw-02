@@ -75,6 +75,7 @@ button {
   color: #ffffff;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 
 .order-service-btn {
@@ -124,6 +125,8 @@ button {
   line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-align: center;
+  text-transform: capitalize;
 }
 
 .team-list-item {
