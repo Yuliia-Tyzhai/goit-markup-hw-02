@@ -30,9 +30,11 @@ button {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
+
 .logo-part {
   color: #2e2f42;
 }
+
 .nav-link {
   color: #2e2f42;
   font-size: 16px;
@@ -45,9 +47,11 @@ button {
 .nav-link:focus {
   color: #404bbf;
 }
+
 .page-address {
   font-style: normal;
 }
+
 .address-link {
   color: #434455;
   font-size: 16px;
@@ -65,12 +69,14 @@ button {
 .hero {
   background-color: #2e2f42;
 }
+
 .main-title {
   font-size: 56px;
   color: #ffffff;
   line-height: 1.07;
   letter-spacing: 0.02em;
 }
+
 .order-service-btn {
   font-family: inherit;
   font-weight: 500;
@@ -89,12 +95,10 @@ button {
 
 /* ==============FEATURES STYLES============== */
 
-.features {
+.features-title {
+  visibility: hidden;
 }
-.features-list {
-}
-.features-list-item {
-}
+
 .features-list-title {
   font-weight: 500;
   font-size: 20px;
@@ -102,6 +106,7 @@ button {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .features-list-text {
   font-size: 16px;
   line-height: 1.5;
@@ -113,19 +118,18 @@ button {
 .team {
   background: #f4f4fd;
 }
+
 .team-title {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.team-list {
-}
+
 .team-list-item {
   background: #ffffff;
 }
-.team-list-img {
-}
+
 .team-list-name {
   font-weight: 500;
   font-size: 20px;
@@ -141,8 +145,6 @@ button {
 
 /* ==============OUR PORTFOLIO STYLES============== */
 
-.portfolio {
-}
 .portfolio-title {
   font-size: 36px;
   line-height: 1.11;
@@ -150,12 +152,6 @@ button {
   color: #2e2f42;
 }
 
-.portfolio-list {
-}
-.portfolio-list-item {
-}
-.portfolio-list-img {
-}
 .portfolio-list-title {
   font-weight: 500;
   font-size: 20px;
@@ -163,16 +159,19 @@ button {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .portfolio-list-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
 /* ==============FOOTER STYLES============== */
 
 .page-footer {
   background: #2e2f42;
 }
+
 .footer-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
